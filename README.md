@@ -1,4 +1,4 @@
-# IsTheApp v2.0.0
+# settings v1.0.0
 Open-source android spyware
 
 The application is installed on the child's device as well as on the parent's device, in the login view the type of user is chosen.
@@ -62,7 +62,7 @@ note: it is very important that accept all the necessary permissions for the app
 # Disclaimer
 The IsTheApp application is intended for legal and educational purposes ONLY. It is a violation of the law to install surveillance software on a mobile phone that you have no right to monitor.
 
-IsTheApp is not responsible if the user does not follow the laws of the country and goes against it. If it is found that the user violates any law or spy in secret, he will be subject to sanctions that govern the legislation of the country.
+"settings" is not responsible if the user does not follow the laws of the country and goes against it. If it is found that the user violates any law or spy in secret, he will be subject to sanctions that govern the legislation of the country.
 
 
 # License
